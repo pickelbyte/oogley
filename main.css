@@ -15,6 +15,19 @@ body {
     margin: 3px;
 }
 
+.game:hover {
+    cursor: pointer;
+    background-color: darkgrey;
+    border-radius: 10px;
+    vertical-align: top;
+    display: inline-block;
+    text-align: center;
+    width: 140px;
+    height: 130px;
+    padding: 3px;
+    margin: 3px;
+}
+
 .gamepng {
     border-radius: 10px;
     height: 100px;
